@@ -55,8 +55,35 @@
 ### AI 客服
 ![AI 客服介面](ai-chatbot.png)
 
+### 所有商品
+![所有商品](productAll.png)
+
+### 商品細節
+![商品細節](productDetail.png)
+
+### 賣家所有上架商品
+![賣家所有上架商品](sellerProduct.png)
+
+### 賣家新增商品
+![賣家新增商品](create.png)
+
+### 賣家預覽商品
+![賣家預覽商品](preview.png)
+
+### 賣家修改商品
+![賣家修改商品](edit.png)
+
+### 賣家修改商品
+![賣家修改商品](edit.png)
+
+### 賣家暫停營業
+![賣家暫停營業](rest.png)
+
+### 全部文章活動
+![全部文章活動](postAll.png)
+
 ### 活動細節 
-![交流區文章活動](postDetail.png)
+![活動細節](postDetail.png)
 ---
 
 ## 🛠 技術棧
