@@ -1,4 +1,4 @@
-# 陳潔（Jie Chen）｜.NET 全端工程師
+# 陳潔（Chieh Chen)｜.NET 全端工程師
 
 近 10 年商業實戰背景的轉職工程師。2026 年完成緯育 TibaMe C# 全端培訓，專注於 ASP.NET Core MVC、Web API 與 SQL Server 的後端開發。
 
@@ -11,7 +11,7 @@
 四人團隊、2個月從零打造的 ASP.NET Core MVC 全端電商平台，涵蓋商品、訂單、社群、即時聊天與 AI 客服共 17 個功能模組。
 
 - 🔗 **團隊專案 GitHub**：https://github.com/WayneLu0407/Bake
-- 🎬 **Demo 影片**：https://youtu.be/uH6yRcZ9O9Q?si=rEzEJypoM0hUSuGG&t=348
+- 🎬 **Demo 影片**：https://youtu.be/uH6yRcZ9O9Q?si=rEzEJypoM0hUSuGG&t=349
 - 👩‍💻 **我的角色**：組長 + 主責後端與資料庫設計
 - 📊 **量化貢獻**：144 commits 為團隊最高貢獻者（#1 / 4 人）
 
