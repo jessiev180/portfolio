@@ -44,6 +44,20 @@
 - 繪製 Wireframe、Sitemap、ER Model 等前置規劃文件
 
 ---
+## 📸 專案截圖
+
+### 首頁
+![甜點棧首頁](home.png)
+
+### 即時聊天室
+![SignalR 聊天室](chat.png)
+
+### AI 客服
+![AI 客服介面](ai-chatbot.png)
+
+### 活動細節 
+![交流區文章活動](postDetail.png)
+---
 
 ## 🛠 技術棧
 
