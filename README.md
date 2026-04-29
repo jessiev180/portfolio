@@ -12,7 +12,7 @@
 
 - 🔗 **團隊專案 GitHub**：https://github.com/WayneLu0407/Bake
 - 🎬 **Demo 影片**：https://youtu.be/uH6yRcZ9O9Q?si=rEzEJypoM0hUSuGG&t=349
-- 👩‍💻 **我的角色**：組長 + 主責後端與資料庫設計
+- 👩‍💻 **我的角色**：組長 + 主責商品模組前後端與會員的資料庫設計
 - 📊 **量化貢獻**：144 commits 為團隊最高貢獻者（#1 / 4 人）
 
 ### 個人技術亮點
